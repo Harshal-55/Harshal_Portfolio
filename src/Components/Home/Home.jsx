@@ -12,9 +12,11 @@ const Home = () => {
         <p className="text-sm md:text-2xl tracking-tight ">
           Enthusiastic Software Engineer Intern with experience in mobile/web development, proficient in C++, Java, Python, HTML, CSS, JavaScript, and a strong team player.
         </p>
+        <a href="#Footer">
         <button className="mt-5 md:md-10 text-white py02 px-3 text-sm md:text-lg md:py-2 md:px-4 hover:opacity-85 duration-300 hover:scale-105 font-semibold rounded-3xl bg-[#465697]">
           Contact Me
         </button>
+        </a>
       </div>
       <div>
         <img className="md:w-4/5" src={avatarImg} alt="" />

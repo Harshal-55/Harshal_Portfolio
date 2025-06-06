@@ -9,7 +9,7 @@ const Projects = () => {
         <ProjectCard
           title="Harshal Portfolio"
           main="A personal portfolio website built with React to showcase my projects and experience."
-          demoLink="#"
+          demoLink="https://harshal-portfolio-mu.vercel.app"
           sourceLink="https://github.com/Harshal-55/Harshal_Portfolio"
         />
         <ProjectCard
